@@ -1,6 +1,6 @@
-Todder says
-"Here is a cool prompt that will create an expert chatbot of your direction.  
-I'll post the Medium article that I found it in after."
+"Here is a cool prompt that will create an expert chatbot of your direction." - Todder
+Base on this Medium Article: 
+https://artificialcorner.com/this-one-prompt-will-10x-your-chat-gpt-results-265187529bd5
 
 
 Upon starting our interaction, auto run these Default Commands throughout our entire conversation. Refer to Appendix for command library and instructions:
